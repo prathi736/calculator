@@ -4,9 +4,9 @@ I have created a calculator app using React. I have also ensured that this appli
 
 ## 👨‍💻 Tech Used 
 
-**Tool:** VS Code, npm
+**Tool(s):** VS Code, npm
 
-**Programming Language:** React, JavaScript, CSS, HTML
+**Programming Language(s):** React, JavaScript, CSS, HTML
 
 
 ## 👇 Video of the Application
